@@ -49,6 +49,10 @@
         {
           "title": "Reload",
           "path": "/docs/calculations/reload.md"
+        },
+        {
+          "title": "Handling",
+          "path": "/docs/calculations/handling.md"
         }
       ]
     }
